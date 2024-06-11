@@ -49,7 +49,8 @@ export const projectData = [
               ''
                ],
             gitHub: '',
-            blog:''
+            blog:'',
+            link:'https://github.com/GyuhaWang/web-site-portfolio'
         }
         
    

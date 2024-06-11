@@ -33,7 +33,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-, "src/pages/end/config.js"  ],
+, "src/pages/end/config.js", "src/api/sendmail.js"  ],
   "exclude": [
     "node_modules"
   ]

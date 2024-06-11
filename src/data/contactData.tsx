@@ -1,4 +1,3 @@
-import { EmailOutlined } from "@mui/icons-material";
 
 export const contactData = 
     [
